@@ -52,22 +52,26 @@ VigyanixAssignment/
 
 Install dependencies for both the frontend and backend:
 
-For the backend:
-  cd backend
-  npm install
+## For the backend:
+   ```bash
+   cd backend
+   npm install
 
-For the frontend:
-  cd frontend
-  npm install
+## For the frontend:
+   ```bash
+   cd frontend
+   npm install
 
-Running the Server
+## Running the Server
 Start the backend server:
-  cd backend
-  node server.js
+   ```bash
+   cd backend
+   node server.js
 
-Start the frontend development server:
-  cd frontend
-  npm start
+## Start the frontend development server:
+   ```bash
+   cd frontend
+   npm start
 
 The backend server will run on http://localhost:5000 and the frontend on http://localhost:3000.
 
