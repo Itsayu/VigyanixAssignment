@@ -50,30 +50,27 @@ VigyanixAssignment/
    git clone https://github.com/Itsayu/VigyanixAssignment.git
    cd VigyanixAssignment
 
-Install dependencies for both the frontend and backend:
+2. Install dependencies for both the frontend and backend:
 
-## For the backend:
-   ```bash
+For the backend:
    cd backend
    npm install
 
-## For the frontend:
-   ```bash
+For the frontend:
    cd frontend
    npm install
 
-## Running the Server
+Running the Server
+
 Start the backend server:
-   ```bash
    cd backend
    node server.js
 
-## Start the frontend development server:
-   ```bash
+Start the frontend development server:
    cd frontend
    npm start
 
-The backend server will run on http://localhost:5000 and the frontend on http://localhost:3000.
+3. The backend server will run on http://localhost:5000 and the frontend on http://localhost:3000.
 
 React Components
 TaskForm.js
