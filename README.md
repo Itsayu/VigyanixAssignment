@@ -53,6 +53,7 @@ VigyanixAssignment/
 2. Install dependencies for both the frontend and backend:
 
 For the backend:
+   ```bash
    cd backend
    npm install
 
