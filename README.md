@@ -53,23 +53,19 @@ VigyanixAssignment/
 Install dependencies for both the frontend and backend:
 
 For the backend:
-   ```bash
   cd backend
   npm install
 
 For the frontend:
-   ```bash
   cd frontend
   npm install
 
 Running the Server
 Start the backend server:
-   ```bash
   cd backend
   node server.js
 
 Start the frontend development server:
-   ```bash
   cd frontend
   npm start
 
